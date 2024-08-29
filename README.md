@@ -1,0 +1,2 @@
+# Manaquiri
+Projetos de ia
